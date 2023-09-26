@@ -1,0 +1,30 @@
+.navbar a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+    margin-left: 50px;
+    
+}
+.navbar a:hover{
+   color: rgba(252, 252, 0, 0.838);
+}
+ .navbar{
+     padding: 10px;
+     display: flex;
+ }
+.navLinks{
+    margin-top: 5px;
+    display: flex;
+}
+.body{
+    margin: 0;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+}
+.iframe{
+    display: flex;
+    justify-content: space-evenly;
+}
